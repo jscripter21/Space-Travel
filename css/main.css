@@ -857,7 +857,7 @@ header.sticky {
 
 .home {
   padding: 150px 12%;
-  height: 85vh;
+  height: 90vh;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
